@@ -17,7 +17,7 @@ blah
 blah
 blah
 En chemin, un gorille m'a cogné la tête avant de me voler mes bananes.
-Depuis, je ne sais plus coder qu'en Cobol
+Depuis, je ne sais plus coder qu'en WinDev
 blah
 blah
 blah
